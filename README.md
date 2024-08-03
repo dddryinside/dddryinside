@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilya Chernikov</h1>
-<h3 align="center">A passionate frontend developer from Minsk, Belarus</h3>
+<h3 align="center">A passionate Java developer from Minsk, Belarus</h3>
 
 - 🔍🤝 I'm looking for a job: **waiting for an offer**
 
