@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ilya Chernikov</h1>
 <h3 align="center">A passionate Java developer from Minsk, Belarus</h3>
 
-- 🔍🤝 I'm looking for a job: **waiting for an offer**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dddryinside" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dddryinside" height="30" width="40" /></a>
